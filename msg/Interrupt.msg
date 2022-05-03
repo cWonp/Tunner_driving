@@ -1,0 +1,12 @@
+int32 enableEvent
+float32 event_x1
+float32 event_y1
+float32 event_z1
+float32 event_x2
+float32 event_y2
+float32 event_z2
+int32 enableDocking
+int32 numStation
+float32 station_x
+float32 station_y
+float32 station_z
